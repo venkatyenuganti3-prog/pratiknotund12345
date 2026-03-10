@@ -1,0 +1,9 @@
+{
+	"name": "venuganti123",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "429119da-2211-4e41-a930-6cce6f22cacd",
+		"tenantId": "2d1ea684-8b47-41c9-a580-011ccdbb4953"
+	}
+}
